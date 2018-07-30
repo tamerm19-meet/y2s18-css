@@ -1,6 +1,6 @@
 body {
 	background-color: #746D75;
-	color:  #B1B7BC;
+	color:  red;
 } 
 a{
 	color:  #43B0DB;
@@ -8,3 +8,9 @@ a{
 a:hover{
 	color: red;
 }
+.vegetable{color:green;}
+#cool{background-color:purple;}
+.title{color:red; font-size:80px; height: 60px; width:100%;}
+.sidebar{background-color:lightblue; position: absolute; top:0px; left: 0px;}
+.container{position: relative;}
+.content{position: absolute; top:0px; left: 200px;}
