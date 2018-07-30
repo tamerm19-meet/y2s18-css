@@ -1,1 +1,10 @@
-
+body {
+	background-color: #746D75;
+	color:  #B1B7BC;
+} 
+a{
+	color:  #43B0DB;
+}
+a:hover{
+	color: red;
+}
